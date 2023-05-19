@@ -21,3 +21,5 @@ password.
 Route n°7 : GET /me : Cette route permet de récupérer toutes les informations de la personne
 connecté.
 
+// utilisation du module jwt pour le côté sécurité ainsi que bcrypt pour haché le password :lock:
+
